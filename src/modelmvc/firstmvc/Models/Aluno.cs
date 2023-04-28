@@ -14,6 +14,8 @@ namespace firstmvc.Models
         public string Email { get; set; }
 
         public DateTime DataNascimento { get; set; }
+
+        public string Password { get; set; }
     }
 }
 
